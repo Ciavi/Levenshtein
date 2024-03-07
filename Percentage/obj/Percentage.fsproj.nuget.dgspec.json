@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\Percentage.fsproj": {}
+  },
+  "projects": {
+    "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\Percentage.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\Percentage.fsproj",
+        "projectName": "Percentage",
+        "projectPath": "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\Percentage.fsproj",
+        "packagesPath": "C:\\Users\\Ciavi\\.nuget\\packages\\",
+        "outputPath": "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ciavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\sdk\\7.0.102\\FSharp\\library-packs": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

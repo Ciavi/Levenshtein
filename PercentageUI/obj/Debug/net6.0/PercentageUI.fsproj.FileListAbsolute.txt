@@ -1,0 +1,4 @@
+Z:\Code\Varie\Testing\Levenshtein\PercentageUI\obj\Debug\net6.0\PercentageUI.fsproj.AssemblyReference.cache
+Z:\Code\Varie\Testing\Levenshtein\PercentageUI\obj\Debug\net6.0\PercentageUI.AssemblyInfoInputs.cache
+Z:\Code\Varie\Testing\Levenshtein\PercentageUI\obj\Debug\net6.0\PercentageUI.AssemblyInfo.fs
+Z:\Code\Varie\Testing\Levenshtein\PercentageUI\obj\Debug\net6.0\PercentageUI.fsproj.CoreCompileInputs.cache

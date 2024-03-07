@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AylB8CY58a/BBSnvmPV0guNN3VMUDbQMo2j3ROYo9bPtJqKIfxTVn/yK6nBVSJo4gLUjePgHbxMnslYgu8qP6g==",
+  "success": true,
+  "projectFilePath": "Z:\\Code\\Varie\\Testing\\Levenshtein\\Percentage\\Percentage.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ciavi\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
